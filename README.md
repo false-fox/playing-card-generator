@@ -1,5 +1,5 @@
 # Playing Card Generator
-This project was low-effort and intended to simply automate creating cards for a Discord bot for economy features like blackjack and other table games. Intended to be uploaded as emojis.
+This project was made a year or three back. Low-effort and intended to simply automate creating cards for a Discord bot for economy features like blackjack and other table games. Intended to be uploaded as emojis.
 
 This was never intended to be public, but this upload is part of an initiviatve to open source stuff that's just laying in my hard drive. I probably won't be making improvements but I will bugfix. Feel free to contact me if you have questions.
 
