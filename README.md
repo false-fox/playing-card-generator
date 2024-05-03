@@ -1,11 +1,11 @@
 # Playing Card Generator
 This project was low-effort and intended to simply automate creating cards for a Discord bot for economy features like blackjack and other table games. Intended to be uploaded as emojis.
 
-This was never intended to be public, but this upload is part of an initiviatve to open source stuff that's just laying in my hard drive. Feel free to contact me if you have questions.
+This was never intended to be public, but this upload is part of an initiviatve to open source stuff that's just laying in my hard drive. I probably won't be making improvements but I will bugfix. Feel free to contact me if you have questions.
 
-The program uses HTML to create the cards and puppeteer to render them to images.
+The program uses Node.JS and HTML to create the cards and puppeteer to render them to images.
 
-/playingcards is for classic, rectangular shaped cards. /playingcardssquare/ is for square ones.
+/playingcards is for classic, rectangular shaped cards. /playingcardssquare/ is for square ones (see: preview).
 
 ## Usage
 
