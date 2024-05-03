@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "false-fox",
+  "license": "GPL-3.0-only",
   "dependencies": {
     "puppeteer": "^19.6.3"
   }
