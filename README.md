@@ -3,7 +3,7 @@ This project was low-effort and intended to simply automate creating cards for a
 
 This was never intended to be public, but this upload is part of an initiviatve to open source stuff that's just laying in my hard drive. I probably won't be making improvements but I will bugfix. Feel free to contact me if you have questions.
 
-The program uses Node.JS and HTML to create the cards and puppeteer to render them to images.
+The program uses Node.JS and HTML to create the cards and puppeteer to render them to images. You can edit the css and html in the source code to manipulate the rendered card's appearences.
 
 /playingcards is for classic, rectangular shaped cards. /playingcardssquare/ is for square ones (see: preview).
 
