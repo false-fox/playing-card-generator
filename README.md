@@ -21,7 +21,7 @@ If you just want the cards, feel free to go to to releases and download the zip.
 
 ### Square cards
 
-![preview](./playingcardssquare/cards/10_of_clover.png)
+![preview](./playingcardssquare/cards/6_of_diamonds.png)
 
 ## LICENSE
 
